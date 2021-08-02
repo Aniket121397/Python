@@ -1,1 +1,1 @@
-# Python In this repository i have completed python and dsa
+# Python In this repository i have completed coding challenges of python and dsa
